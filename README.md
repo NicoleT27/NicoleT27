@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicole Torres</h1>
-<h3 align="center">A Full Stack Web Developer with medical background and a passion for coding.</h3>
+<h3 align="center">A Full Stack Web Developer with a medical background and a passion for coding.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolet27" alt="nicolet27" /></a> </p>
 
